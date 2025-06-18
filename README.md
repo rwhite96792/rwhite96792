@@ -11,12 +11,7 @@ As I endeavor to a new career my journey in computer science has led me to devel
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | SOC Automation Lab|
-| Network Traffic Monitoring and Attack Detection | SOC Automation Lab|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
 
